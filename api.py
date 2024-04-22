@@ -45,7 +45,6 @@ class ChatSessionContainer(BaseModel):
 
 class ImpaxAIRAAPI:
     endpoint = os.environ.get("AI_ASSISTANT_API_ENDPOINT")
-    # endpoint = "https://impax-ai-assistant-inference.azurewebsites.net/"
     # endpoint = "http://localhost:8000"
     session = requests.Session()
     default_header = {
