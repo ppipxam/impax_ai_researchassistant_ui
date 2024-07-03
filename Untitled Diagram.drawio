@@ -1,4 +1,4 @@
-<mxfile modified="2024-07-03T02:26:35.994Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="sYSKvjn0vpYJRe_fqecs" version="24.2.3" type="github">
+<mxfile modified="2024-07-03T04:14:26.946Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="3JMs0pVe7o1ToKosn1Gg" version="24.2.3" type="github">
   <diagram id="WI9T0HZ2pTsCkuznbFz-" name="Page-1">
     <mxGraphModel dx="1986" dy="1786" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -337,8 +337,10 @@
         <mxCell id="5WHx_3a6I7kyOUKEHrbF-94" value="Pre-designed workflows&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="690" y="828" width="280" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="5WHx_3a6I7kyOUKEHrbF-95" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5WHx_3a6I7kyOUKEHrbF-30" target="5WHx_3a6I7kyOUKEHrbF-94">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="5WHx_3a6I7kyOUKEHrbF-95" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="5WHx_3a6I7kyOUKEHrbF-94">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="550" y="898" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="5WHx_3a6I7kyOUKEHrbF-99" value="&lt;div&gt;ESG analysis writing&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#B3FF66;" vertex="1" parent="1">
           <mxGeometry x="760" y="870" width="130" height="19.5" as="geometry" />
