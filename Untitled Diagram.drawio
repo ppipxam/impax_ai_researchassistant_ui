@@ -1,74 +1,13 @@
-<mxfile modified="2024-07-03T04:14:26.946Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="3JMs0pVe7o1ToKosn1Gg" version="24.2.3" type="github">
+<mxfile modified="2024-07-03T07:47:45.747Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="3gdBVCyATS7lK8Slq9Jk" version="24.2.3" type="github">
   <diagram id="WI9T0HZ2pTsCkuznbFz-" name="Page-1">
-    <mxGraphModel dx="1986" dy="1786" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1887" dy="1738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="8DieQMmsyX2rE4fabxvS-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#EAEDED;fontSize=22;fontColor=#FFFFFF;strokeColor=none;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="1970" y="250" width="539" height="1209" as="geometry" />
-        </mxCell>
-        <mxCell id="8DieQMmsyX2rE4fabxvS-2" value="&lt;span&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/span&gt;&lt;br&gt;" style="text;html=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=14;labelBackgroundColor=none;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="2039.5" y="261" width="449" height="118" as="geometry" />
-        </mxCell>
-        <mxCell id="8DieQMmsyX2rE4fabxvS-3" value="d" style="text;html=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=14;labelBackgroundColor=none;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="2039.5" y="379" width="450" height="115" as="geometry" />
-        </mxCell>
-        <mxCell id="8DieQMmsyX2rE4fabxvS-4" value="&lt;span&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/span&gt;&lt;br&gt;" style="text;html=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=14;labelBackgroundColor=none;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="2038.5" y="502" width="450" height="117" as="geometry" />
-        </mxCell>
-        <mxCell id="8DieQMmsyX2rE4fabxvS-5" value="&lt;span&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/span&gt;&lt;br&gt;" style="text;html=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=14;labelBackgroundColor=none;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="2038.5" y="618" width="450" height="121" as="geometry" />
-        </mxCell>
-        <mxCell id="8DieQMmsyX2rE4fabxvS-6" value="&lt;span&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/span&gt;&lt;br&gt;" style="text;html=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=14;labelBackgroundColor=none;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="2039.5" y="735" width="449" height="114" as="geometry" />
-        </mxCell>
-        <mxCell id="8DieQMmsyX2rE4fabxvS-7" value="&lt;span&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/span&gt;&lt;br&gt;" style="text;html=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=14;labelBackgroundColor=none;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="2039.5" y="851" width="450" height="118" as="geometry" />
-        </mxCell>
-        <mxCell id="8DieQMmsyX2rE4fabxvS-8" value="&lt;span&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/span&gt;&lt;br&gt;" style="text;html=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=14;labelBackgroundColor=none;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="2039.5" y="966" width="449" height="113" as="geometry" />
-        </mxCell>
-        <mxCell id="8DieQMmsyX2rE4fabxvS-9" value="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#4D9900;strokeColor=none;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="1990" y="267.5" width="23" height="23" as="geometry" />
-        </mxCell>
-        <mxCell id="8DieQMmsyX2rE4fabxvS-10" value="2" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#4D9900;strokeColor=none;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="1990" y="388.5" width="23" height="23" as="geometry" />
-        </mxCell>
-        <mxCell id="8DieQMmsyX2rE4fabxvS-11" value="3" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#4D9900;strokeColor=none;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="1990" y="509.5" width="23" height="23" as="geometry" />
-        </mxCell>
-        <mxCell id="8DieQMmsyX2rE4fabxvS-12" value="4" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#4D9900;strokeColor=none;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="1989.9999999999995" y="626.5" width="23" height="23" as="geometry" />
-        </mxCell>
-        <mxCell id="8DieQMmsyX2rE4fabxvS-13" value="5" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#4D9900;strokeColor=none;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="1989.9999999999995" y="739" width="23" height="23" as="geometry" />
-        </mxCell>
-        <mxCell id="8DieQMmsyX2rE4fabxvS-14" value="6" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#4D9900;strokeColor=none;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="1989.9999999999995" y="860.5" width="23" height="23" as="geometry" />
-        </mxCell>
-        <mxCell id="8DieQMmsyX2rE4fabxvS-15" value="7" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#4D9900;strokeColor=none;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="1990" y="969" width="23" height="23" as="geometry" />
-        </mxCell>
-        <mxCell id="8DieQMmsyX2rE4fabxvS-16" value="&lt;span&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/span&gt;&lt;br&gt;" style="text;html=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=14;labelBackgroundColor=none;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="2040.5" y="1084.5" width="449" height="113" as="geometry" />
-        </mxCell>
-        <mxCell id="8DieQMmsyX2rE4fabxvS-17" value="8" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#4D9900;strokeColor=none;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="1991" y="1087.5" width="23" height="23" as="geometry" />
-        </mxCell>
-        <mxCell id="8DieQMmsyX2rE4fabxvS-18" value="&lt;span&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/span&gt;&lt;br&gt;" style="text;html=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=14;labelBackgroundColor=none;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="2040.5" y="1208" width="449" height="113" as="geometry" />
-        </mxCell>
-        <mxCell id="8DieQMmsyX2rE4fabxvS-19" value="9" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#4D9900;strokeColor=none;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="1991" y="1211" width="23" height="23" as="geometry" />
-        </mxCell>
-        <mxCell id="8DieQMmsyX2rE4fabxvS-20" value="&lt;span&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/span&gt;&lt;br&gt;" style="text;html=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=14;labelBackgroundColor=none;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="2039.5" y="1335.5" width="449" height="113" as="geometry" />
-        </mxCell>
-        <mxCell id="8DieQMmsyX2rE4fabxvS-21" value="10" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#4D9900;strokeColor=none;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="1990" y="1338.5" width="23" height="23" as="geometry" />
-        </mxCell>
         <mxCell id="5WHx_3a6I7kyOUKEHrbF-12" value="Document Preprocessing API" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1410" y="-550" width="1384" height="440" as="geometry" />
+          <mxGeometry x="1410" y="-550" width="1384" height="440" as="geometry">
+            <mxRectangle x="1410" y="-550" width="200" height="30" as="alternateBounds" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="5WHx_3a6I7kyOUKEHrbF-3" value="Horizontal Flow Layout" style="swimlane;html=1;startSize=20;horizontal=0;childLayout=flowLayout;flowOrientation=west;resizable=0;interRankCellSpacing=50;containerType=tree;fontSize=12;" vertex="1" parent="5WHx_3a6I7kyOUKEHrbF-12">
           <mxGeometry x="150" y="196" width="372" height="150" as="geometry" />
@@ -241,6 +180,9 @@
         <mxCell id="5WHx_3a6I7kyOUKEHrbF-75" value="MSCI Reports" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E6E6E6;" vertex="1" parent="5WHx_3a6I7kyOUKEHrbF-43">
           <mxGeometry x="260" y="110" width="150" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="5WHx_3a6I7kyOUKEHrbF-103" value="Company Websites" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFCC99;" vertex="1" parent="5WHx_3a6I7kyOUKEHrbF-43">
+          <mxGeometry x="260" y="210" width="150" height="30" as="geometry" />
+        </mxCell>
         <mxCell id="5WHx_3a6I7kyOUKEHrbF-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="5WHx_3a6I7kyOUKEHrbF-44" target="5WHx_3a6I7kyOUKEHrbF-51">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -334,8 +276,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="5WHx_3a6I7kyOUKEHrbF-94" value="Pre-designed workflows&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="690" y="828" width="280" height="140" as="geometry" />
+        <mxCell id="5WHx_3a6I7kyOUKEHrbF-94" value="Pre-designed workflows&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="690" y="828" width="280" height="192" as="geometry" />
         </mxCell>
         <mxCell id="5WHx_3a6I7kyOUKEHrbF-95" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="5WHx_3a6I7kyOUKEHrbF-94">
           <mxGeometry relative="1" as="geometry">
@@ -343,10 +285,64 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="5WHx_3a6I7kyOUKEHrbF-99" value="&lt;div&gt;ESG analysis writing&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#B3FF66;" vertex="1" parent="1">
-          <mxGeometry x="760" y="870" width="130" height="19.5" as="geometry" />
+          <mxGeometry x="747.5" y="870" width="182.5" height="19.5" as="geometry" />
         </mxCell>
         <mxCell id="5WHx_3a6I7kyOUKEHrbF-102" value="10-step writing" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFF99;" vertex="1" parent="1">
-          <mxGeometry x="760" y="920" width="130" height="20" as="geometry" />
+          <mxGeometry x="750" y="980" width="170" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="5WHx_3a6I7kyOUKEHrbF-107" value="&lt;div&gt;Impact Data Collection&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFF99;" vertex="1" parent="1">
+          <mxGeometry x="747.5" y="900.25" width="180" height="19.5" as="geometry" />
+        </mxCell>
+        <mxCell id="5WHx_3a6I7kyOUKEHrbF-108" value="&lt;div&gt;&quot;Priority Indicators&quot;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#B3FF66;" vertex="1" parent="1">
+          <mxGeometry x="750" y="953.25" width="170" height="19.5" as="geometry" />
+        </mxCell>
+        <mxCell id="5WHx_3a6I7kyOUKEHrbF-110" value="&lt;div&gt;Thematic Revenue Prediction&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#B3FF66;" vertex="1" parent="1">
+          <mxGeometry x="750" y="928" width="175" height="19.5" as="geometry" />
+        </mxCell>
+        <mxCell id="5WHx_3a6I7kyOUKEHrbF-116" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1970" y="230" width="539" height="737" as="geometry" />
+        </mxCell>
+        <mxCell id="8DieQMmsyX2rE4fabxvS-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#EAEDED;fontSize=22;fontColor=#FFFFFF;strokeColor=none;labelBackgroundColor=none;" parent="5WHx_3a6I7kyOUKEHrbF-116" vertex="1">
+          <mxGeometry width="539" height="736.9999999999999" as="geometry" />
+        </mxCell>
+        <mxCell id="8DieQMmsyX2rE4fabxvS-2" value="&lt;span&gt;Stage 1: Automate parts of the repetitive workflows with most of the ESG 2.0/10 step analysis, with ESG, annual reports, and MSCI reports.&lt;/span&gt;&lt;div&gt;&lt;span&gt;Impact and ESG data collection can also be automated.&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=14;labelBackgroundColor=none;whiteSpace=wrap;" parent="5WHx_3a6I7kyOUKEHrbF-116" vertex="1">
+          <mxGeometry x="69.5" y="40" width="449" height="95.12" as="geometry" />
+        </mxCell>
+        <mxCell id="8DieQMmsyX2rE4fabxvS-3" value="Stage 2.1.: Automate most the repetitive workflows with additional structured data sources, such as board information, CEO compensation, supply chain relationships, etc. Basic financial ratio analysis can also be automated" style="text;html=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=14;labelBackgroundColor=none;whiteSpace=wrap;" parent="5WHx_3a6I7kyOUKEHrbF-116" vertex="1">
+          <mxGeometry x="68.5" y="146.37638888888887" width="450" height="97.24305555555554" as="geometry" />
+        </mxCell>
+        <mxCell id="8DieQMmsyX2rE4fabxvS-4" value="&lt;span&gt;Stage 3: More flexible &quot;assistant&quot; workflows, through a chat style interface. Potential use cases include:&lt;/span&gt;&lt;div&gt;- Fact check information quickly&lt;/div&gt;&lt;div&gt;- Highlight key debate points&amp;nbsp;&lt;br&gt;&lt;div&gt;&lt;span&gt;- Comparing assumption across analyst models&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=14;labelBackgroundColor=none;whiteSpace=wrap;" parent="5WHx_3a6I7kyOUKEHrbF-116" vertex="1">
+          <mxGeometry x="60" y="503.6166666666666" width="450" height="102.3611111111111" as="geometry" />
+        </mxCell>
+        <mxCell id="8DieQMmsyX2rE4fabxvS-9" value="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#4D9900;strokeColor=none;labelBackgroundColor=none;" parent="5WHx_3a6I7kyOUKEHrbF-116" vertex="1">
+          <mxGeometry x="20" y="46.984027777777776" width="23" height="23" as="geometry" />
+        </mxCell>
+        <mxCell id="8DieQMmsyX2rE4fabxvS-10" value="2" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#4D9900;strokeColor=none;labelBackgroundColor=none;" parent="5WHx_3a6I7kyOUKEHrbF-116" vertex="1">
+          <mxGeometry x="20" y="144.8409722222222" width="23" height="23" as="geometry" />
+        </mxCell>
+        <mxCell id="8DieQMmsyX2rE4fabxvS-11" value="3" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#4D9900;strokeColor=none;labelBackgroundColor=none;" parent="5WHx_3a6I7kyOUKEHrbF-116" vertex="1">
+          <mxGeometry x="20" y="268.69791666666663" width="23" height="23" as="geometry" />
+        </mxCell>
+        <mxCell id="8DieQMmsyX2rE4fabxvS-12" value="4" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#4D9900;strokeColor=none;labelBackgroundColor=none;" parent="5WHx_3a6I7kyOUKEHrbF-116" vertex="1">
+          <mxGeometry x="19.999999999999545" y="388.4604166666666" width="23" height="23" as="geometry" />
+        </mxCell>
+        <mxCell id="8DieQMmsyX2rE4fabxvS-13" value="5" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#4D9900;strokeColor=none;labelBackgroundColor=none;" parent="5WHx_3a6I7kyOUKEHrbF-116" vertex="1">
+          <mxGeometry x="19.999999999999545" y="503.6166666666666" width="23" height="23" as="geometry" />
+        </mxCell>
+        <mxCell id="8DieQMmsyX2rE4fabxvS-14" value="6" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#4D9900;strokeColor=none;labelBackgroundColor=none;" parent="5WHx_3a6I7kyOUKEHrbF-116" vertex="1">
+          <mxGeometry x="19.999999999999545" y="627.9854166666667" width="23" height="23" as="geometry" />
+        </mxCell>
+        <mxCell id="5WHx_3a6I7kyOUKEHrbF-111" value="Stage 2.2.: Thematic revenue analysis with extracted company segment information." style="text;html=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=14;labelBackgroundColor=none;whiteSpace=wrap;" vertex="1" parent="5WHx_3a6I7kyOUKEHrbF-116">
+          <mxGeometry x="68.5" y="269.2097222222222" width="450" height="97.24305555555554" as="geometry" />
+        </mxCell>
+        <mxCell id="5WHx_3a6I7kyOUKEHrbF-114" value="&lt;span&gt;Stage 4: More advanced analytics, leveraging data gathered automatically from the AI assistant. For example, advanced risk clustering, using segment reporting, supply chain, and other relationship information.&amp;nbsp;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=14;labelBackgroundColor=none;whiteSpace=wrap;" vertex="1" parent="5WHx_3a6I7kyOUKEHrbF-116">
+          <mxGeometry x="60" y="627.473611111111" width="450" height="109.52638888888887" as="geometry" />
+        </mxCell>
+        <mxCell id="5WHx_3a6I7kyOUKEHrbF-115" value="&lt;span&gt;Stage 2.3: Automate repetitive marketing/BD work flows, such as analyst commentary, RFP, marketing decks, etc.&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=14;labelBackgroundColor=none;whiteSpace=wrap;" vertex="1" parent="5WHx_3a6I7kyOUKEHrbF-116">
+          <mxGeometry x="60" y="388.4604166666666" width="450" height="102.3611111111111" as="geometry" />
+        </mxCell>
+        <mxCell id="5WHx_3a6I7kyOUKEHrbF-118" value="Roadmap" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#DEDEDE;" vertex="1" parent="5WHx_3a6I7kyOUKEHrbF-116">
+          <mxGeometry x="20" y="9.98" width="230" height="30.02" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
